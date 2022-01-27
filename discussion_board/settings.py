@@ -26,7 +26,7 @@ SECRET_KEY = '4Eb357E6547F46A0449980803B0Dca245F8C393763C60D99'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://blog-django-wadii.herokuapp.com/']
 
 
 # Application definition
